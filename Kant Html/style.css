@@ -1,0 +1,60 @@
+body{
+    background-color: gray;
+}
+
+.header{
+    padding: 20px;
+}
+
+.links{display: inline;
+    margin-left: 450px;
+}
+
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 5px;
+}
+
+.links a:hover{
+    color: blue;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+}
+.span-1 , .span-2{
+    font-weight: 300bold;
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
+.span-1{
+    color: #85037a;
+}
+
+.span-2{
+    color: #e605d3;
+}
+
+.Emos-1{
+    width: 500px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.Emos-2{
+    background-color: white;
+    width: 500px;
+}
+
+.img{
+    width: 500px;
+}
+
+.img img{
+    width: 100%;
+}
